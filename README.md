@@ -20,4 +20,4 @@ Building deeper expertise in vulnerability research while transitioning from bac
 
 ---
 
-![tryhackme badge](https://raw.githubusercontent.com/dwBruijn/dwBruijn/master/assets/thm_dwbruijn.png)
+![tryhackme badge](https://raw.githubusercontent.com/dwBruijn/dwBruijn/master/assets/tryhackme-badge.png)
