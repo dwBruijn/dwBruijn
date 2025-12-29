@@ -17,3 +17,7 @@ Building deeper expertise in vulnerability research while transitioning from bac
 ---
 
 💬 Open to collaborations on security research and interesting technical challenges  
+
+---
+
+![tryhackme badge](https://raw.githubusercontent.com/dwBruijn/dwBruijn/master/assets/thm_dwbruijn.png)
