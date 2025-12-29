@@ -16,4 +16,4 @@ Building deeper expertise in vulnerability research while transitioning from bac
 
 ---
 
-💬 Open to collaborations on security research and interesting technical challenges  
+💬 Open to collaborations on security research and interesting technical challenges.  
