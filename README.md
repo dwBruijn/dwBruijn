@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hey, I'm Charbel (dwbruijn)
 
-<!--
-**dwBruijn/dwBruijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security Reseacher | Backend & Cloud Engineer**
 
-Here are some ideas to get you started:
+I design, build, secure, and break systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I'm About
+
+- **Security Research**: Discovering vulnerabilities in IoT devices from popular vendors like Netgear, TP-Link, Tenda...
+- **Malware Analysis & Threat Intelligence**: Tracking malware campaigns since 2018, espeically Ransomware-as-a-Service (GrandCrab, REvil, Ryuk...), and uncovering novel techniques used by cyber criminals.
+- **Backend & Cloud Engineering**: 3+ years building secure and scalable backend systems on GCP and AWS
+
+### 🚀 Current Focus
+
+Building deeper expertise in vulnerability research while transitioning from backend engineering to full-time security roles.
+
+---
+
+💬 Open to collaborations on security research and interesting technical challenges  
