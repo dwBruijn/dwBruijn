@@ -8,7 +8,7 @@ I design, build, secure, and break systems.
 
 - **Security Research**: Discovering vulnerabilities in IoT devices from popular vendors like Netgear, TP-Link, Tenda...
 - **Malware Analysis & Threat Intelligence**: Tracking malware campaigns since 2018, espeically Ransomware-as-a-Service (GrandCrab, REvil, Ryuk...), and uncovering novel techniques used by cyber criminals.
-- **Backend & Cloud Engineering**: 3+ years building secure and scalable backend systems on GCP and AWS
+- **Backend & Cloud Engineering**: 3+ years building secure and scalable backend systems on GCP and AWS.
 
 ### 🚀 Current Focus
 
