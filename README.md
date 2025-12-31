@@ -18,4 +18,4 @@ Building deeper expertise in vulnerability research while transitioning from bac
 
 💬 Open to collaborations on security research and interesting technical challenges.  
 
-![tryhackme badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6435272)
+![tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/dwbruijn.png)
