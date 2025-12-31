@@ -14,8 +14,10 @@ I design, build, secure, and break systems.
 
 Building deeper expertise in vulnerability research while transitioning from backend engineering to full-time security roles.
 
+Open to collaborations on security research and interesting technical challenges.  
+
 ---
 
-💬 Open to collaborations on security research and interesting technical challenges.  
+### Top 1% on TryHackMe
 
 ![tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/dwbruijn.png)
