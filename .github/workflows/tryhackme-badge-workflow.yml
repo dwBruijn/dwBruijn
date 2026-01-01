@@ -15,4 +15,7 @@ jobs:
           username: "dwbruijn"
           user_public_id: "6435272"
           image_path: "./assets/thm_badge.png"
+          use_static_image: false
+          committer_username: "dwbruijn-bot"
+          committer_email: "dwbruijn-bot@charbelfarhat.com"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
