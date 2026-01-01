@@ -20,4 +20,4 @@ Open to collaborations on security research and interesting technical challenges
 
 ### Top 1% on TryHackMe
 
-![tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/dwbruijn.png)
+![tryhackme badge](https://raw.githubusercontent.com/dwBruijn/dwBruijn/master/assets/thm_badge.png)
