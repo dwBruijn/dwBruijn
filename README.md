@@ -15,5 +15,3 @@ I design, build, secure, and break systems.
 Building deeper expertise in vulnerability research while transitioning from backend engineering to full-time security roles.
 
 Open to collaborations on security research and interesting technical challenges.  
-
----
