@@ -12,6 +12,6 @@ I design, build, secure, and break systems.
 
 ### 🚀 Current Focus
 
-Building deeper expertise in vulnerability research and security in general while pivoting from backend engineering to full-time security roles.
+Building deeper expertise in vulnerability research and security in general.
 
 Open to collaborations on security research and interesting technical challenges.  
